@@ -1,1 +1,1 @@
-a, b, c = input("Enter theree numbers").split()
+print("new python file")
