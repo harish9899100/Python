@@ -44,7 +44,7 @@
 
 
 student1 = {
-    "name": "jone",
+    "name": "jone",                        
     "class": "10th",
     "age": 15
 }
@@ -58,7 +58,7 @@ student3 = {
     "class": "5th",
     "age": 10
 }
-students = {
+students = {                             # we are creating one dictionary that is contain many dictionarys
     "student1": student1,
     "student2": student2,
     "student3": student3
