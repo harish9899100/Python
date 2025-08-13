@@ -11,4 +11,3 @@ for x in word:
 # a = colour + new
 # print(a)
 
-
