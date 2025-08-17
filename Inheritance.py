@@ -15,14 +15,16 @@
 # c.speck()
 
 
-class student:
-    def name(self):
-        print("The name of students is :")
-    def harish(name):
-        print("The student name is harish")
-    def raj(name):
-        print("The student name is raj")
-a = student()
-a.harish()
-b = student()
-b.raj()
+# class student:
+#     def name(self):
+#         print("The name of students is :")
+#     def harish(name):
+#         print("The student name is harish")
+#     def raj(name):
+#         print("The student name is raj")
+# a = student()
+# a.harish()
+# b = student()
+# b.raj()
+
+
