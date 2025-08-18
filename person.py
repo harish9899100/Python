@@ -13,13 +13,13 @@
 # print("The name of Person is :",p1.name)
 # print("The age of person is :",p1.age)
 
-class person:
+class Person:
     def __init__(self, name, age):
         self.name = name
         self.age = age
-p1 = person("rohit", 23)
-print("The name of person is :", p1.name)
-print("The age of person is : ", p1.age)
-p2 = person("vikash", 21)
-print("The name of person is :", p2.name)
-print("The age of person is :", p2.age)
+# p1 = person("rohit", 23)
+# print("The name of person is :", p1.name)
+# print("The age of person is : ", p1.age)
+# p2 = person("vikash", 21)
+# print("The name of person is :", p2.name)
+# print("The age of person is :", p2.age)
