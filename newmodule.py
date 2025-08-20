@@ -9,7 +9,7 @@
 # print(a)
 
 def factorial(n):
-    if n == 0 or n == 1:
+    if n == 0 or n == 1:                             # we can use like : from newmodule import factorial
         return 1
     return n * factorial(n-1)
 a = factorial(int(input("Enter a number for getting factorial : ")))
