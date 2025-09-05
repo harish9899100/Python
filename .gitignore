@@ -7,3 +7,6 @@ __pycache__/
 
 # Ignore SQLite database
 db.sqlite3
+
+# Hear is secreate gemini api key for chatbot
+.env
