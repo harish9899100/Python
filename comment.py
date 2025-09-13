@@ -1,3 +1,4 @@
+print("now i check how to work git diff command ")
 print("In python language are persent two type of comment ")
 # This is single line comment
 """ This is
@@ -20,6 +21,6 @@ u
 tur 
 comment '''
 #printing the list of keyword using kwlist
-
+print("helllo team")
 import keyword
 print(keyword.kwlist)
