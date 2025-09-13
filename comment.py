@@ -19,3 +19,5 @@ print(keyword.kwlist)
 print("hello team hear i want to check something")
 print("hear i check about git push")
 print('hello hear i check only git push')
+# hear i want to add something for clearing branch concept in git 
+print('how to mearge branch into main branch')
