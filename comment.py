@@ -4,19 +4,11 @@ print("In python language are persent two type of comment ")
 """ This is
 fsf
 sd
-fsfs
-fsd
-fs
 dfsf
 f
 sfs
 multyline comment """
-''' this is alos multyline
-wer
-w
-er
-yrt
-yr
+''' this is ayr
 u
 tur 
 comment '''
